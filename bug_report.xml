@@ -1,5 +1,5 @@
 <xml>
   <summary>The button "9" doesn't work</summary>
   <steps>Press the button 9</steps>
-  <actual result>the button "9" doesn't work</actual result>
-  <expected result>the number 9 is on display</expected result>
+  <actualResult>the button "9" doesn't work</actualResult>
+  <expectedResult>the number 9 is on display</expectedResult>
